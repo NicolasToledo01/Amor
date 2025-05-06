@@ -4,15 +4,10 @@
   "description": "Olá! Se você está aqui, provavelmente se deparou com o título intrigante deste post e está se perguntando sobre o que se trata essa loucura, certo? 😄 Não se preocupe, se estivesse no seu lugar, também faria a mesma pergunta. Mas, aqui vai uma pergunta para você: já pensou em sair da frente da tela do computador para pedir a pessoa amada em namoro? 😏",
   "main": "index.js",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview",
+    "start": "echo \"Projeto baseado em HTML e JS puro. Não há servidor para iniciar.\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "vite": "^4.0.0"
-  }
+  "license": "ISC"
 }
