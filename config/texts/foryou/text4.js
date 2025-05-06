@@ -1,6 +1,6 @@
 
 
-const textFY4 = `aceita namorar comigo?
+const textFY4 = `aceita Casar comigo?
 `;
 
 document.addEventListener("DOMContentLoaded", () => {

@@ -2,7 +2,7 @@ const textFY1 = `Agora, por favor, leia essas palavras com o coração aberto, p
 
 Talvez eu não seja a melhor pessoa com palavras, mas dentro de mim existe um mundo inteiro de sentimentos que só fazem sentido quando penso em você. Tudo aqui foi pensado com carinho, cuidado e verdade. Não é só um texto — é um pedaço do meu coração envolto em letras, uma tentativa doce e imperfeita de transformar o que sinto em algo que você possa ler... e sentir também.
 
-Então, por favor, leia devagar. Deixe cada palavra tocar você com a mesma delicadeza com que saiu de mim. Você é muito mais especial do que talvez consiga imaginar. Esse é o meu jeito tímido — mas real — de dizer que gosto de você... profundamente.
+Então, por favor, leia devagar. Deixe cada palavra tocar você com a mesma delicadeza com que saiu de mim. Você é muito mais especial do que talvez consiga imaginar. Esse é o meu jeito tímido — mas real — de dizer que Eu Amo você... tão profundamente.
 `;
 
 document.addEventListener("DOMContentLoaded", () => {

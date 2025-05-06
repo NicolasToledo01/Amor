@@ -1,2 +1,2 @@
 // Arquivo de configuração: dias.js
-const dataEspecial = '22/04/2021'; // Data inicial do relacionamento
+const dataEspecial = '02/04/2023'; // Data inicial do relacionamento

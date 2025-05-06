@@ -1,6 +1,6 @@
 // ⚠️ Modifique apenas as variáveis!
 
-var user = "Pit";
+var user = "Bela";
 
 // ⚠️ Modifique apenas as variáveis!
 
