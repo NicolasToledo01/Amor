@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/Amor/', // Substitua pelo nome do seu repositório
+  base: '/CodeOfLove/', // Substitua pelo nome do seu repositório
 });
